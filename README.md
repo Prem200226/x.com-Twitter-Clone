@@ -1,0 +1,1 @@
+This project is a static Twitter Clone built using Tailwind CSS. It focuses on replicating Twitter's user interface (UI) without backend functionality. The website is non-functional and serves as a design prototype to showcase layout, styling, and responsiveness.
